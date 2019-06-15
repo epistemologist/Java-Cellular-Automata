@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.target=GameOfLifeDemo
+comment0.text=\n\ Runner\ class\ to\ demonstrate\ implementation\ of\ Conway's\ Game\ of\ Life\n\ Code\ by\:\ Husnain\ Raza\n
+comment1.params=iterations
+comment1.target=void\ block(int)
+comment10.params=args
+comment10.target=void\ main(java.lang.String[])
+comment2.params=iterations
+comment2.target=void\ blinker(int)
+comment3.params=iterations
+comment3.target=void\ beacon(int)
+comment4.params=iterations
+comment4.target=void\ glider(int)
+comment5.params=s
+comment5.target=int[][]\ patternFromString(java.lang.String)
+comment6.params=p\ iterations\ delay
+comment6.target=void\ testPattern(java.lang.String,\ int,\ int)
+comment7.params=url\ iterations\ delay
+comment7.target=void\ printPatternFromURL(java.lang.String,\ int,\ int)
+comment8.params=url
+comment8.target=void\ printPatternFromURL(java.lang.String)
+comment9.params=url\ iterations
+comment9.target=void\ imageSeqFromURL(java.lang.String,\ int)
+numComments=11

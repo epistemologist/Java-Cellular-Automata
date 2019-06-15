@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=FredkinReplicatorDemo
+comment0.text=\n\ Runner\ class\ that\ demonstrates\ implementation\ of\ Fredkin's\ replicator\n\ Code\ by\:\ Husnain\ Raza\n
+comment1.params=pattern\ iterations
+comment1.target=void\ demo(int[][],\ int)
+comment2.params=pattern\ iterations
+comment2.target=void\ genImageSeq(int[][],\ int)
+comment3.params=args
+comment3.target=void\ main(java.lang.String[])
+numComments=4

@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=CyclicCellularAutomata
+comment1.params=length\ width\ range\ threshold\ maxStates\ neighborhood
+comment1.target=CyclicCellularAutomata(int,\ int,\ int,\ int,\ int,\ char)
+comment2.params=
+comment2.target=void\ next()
+comment3.params=in\ colormap
+comment3.target=int[][]\ convertArrToIm(int[][],\ int[])
+comment4.params=colormap
+comment4.target=void\ genImageSequence(int[])
+numComments=5

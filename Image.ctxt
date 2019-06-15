@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=Image
+comment0.text=\n\ Utility\ class\ that\ allows\ for\ saving\ 2D\ array\ as\ image\n\ Code\ by\:\ Husnain\ Raza\n
+comment1.params=r\ g\ b
+comment1.target=int\ intFromRGB(int,\ int,\ int)
+comment2.params=rgb
+comment2.target=int\ getRed(int)
+comment3.params=rgb
+comment3.target=int\ getGreen(int)
+comment4.params=rgb
+comment4.target=int\ getBlue(int)
+comment5.params=pixels
+comment5.target=java.awt.image.BufferedImage\ imFromArray(int[][])
+comment6.params=filename\ im
+comment6.target=void\ saveImage(java.lang.String,\ java.awt.image.BufferedImage)
+comment7.params=filename\ pixels
+comment7.target=void\ saveImageFromArr(java.lang.String,\ int[][])
+comment8.params=args
+comment8.target=void\ main(java.lang.String[])
+numComments=9

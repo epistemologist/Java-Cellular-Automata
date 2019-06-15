@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=ElementaryCellularAutomata
+comment0.text=\n\ Class\ that\ emulates\ Stephen\ Wolfram's\ Elementary\ Cellular\ Automata\n\ Code\ by\:\ Husnain\ Raza\n
+comment1.params=setRuleNumber
+comment1.target=ElementaryCellularAutomata(int)
+comment2.params=
+comment2.target=int\ getRuleNumber()
+comment3.params=setRuleNum
+comment3.target=void\ setRuleNumber(int)
+comment4.params=
+comment4.target=void\ next()
+comment5.params=
+comment5.target=void\ displayHistory()
+comment6.params=args
+comment6.target=void\ main(java.lang.String[])
+numComments=7

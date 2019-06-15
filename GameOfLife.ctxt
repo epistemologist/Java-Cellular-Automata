@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=GameOfLife
+comment0.text=\n\ Class\ that\ implements\ Conway's\ Game\ of\ Life\n\ Code\ by\:\ Husnain\ Raza\n
+comment1.params=length\ width\ coords
+comment1.target=GameOfLife(int,\ int,\ int[][])
+comment2.params=initState
+comment2.target=GameOfLife(int[][])
+comment3.params=iterations
+comment3.target=void\ printHistory(int)
+comment4.params=iterations\ delay
+comment4.target=void\ printHistoryDelay(int,\ int)
+comment5.params=iterations
+comment5.target=void\ genImageSequence(int)
+numComments=6

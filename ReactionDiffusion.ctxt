@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.target=ReactionDiffusion
+comment0.text=\n\ Implementation\ of\ the\ Grey\ Scott\ model\ for\ Reaction\ Diffusion.\n\ Inspired\ by\ https\://thecodingtrain.com/CodingChallenges/013-reactiondiffusion-p5.html\n\ \n\ Code\:\ by\ Husnain\ Raza\n
+comment1.params=length\ width
+comment1.target=ReactionDiffusion(int,\ int)
+comment10.params=x\ y
+comment10.target=double\ laplaceA(int,\ int)
+comment11.params=x\ y
+comment11.target=double\ laplaceB(int,\ int)
+comment2.params=board
+comment2.target=void\ setBoard(ReactionDiffusion.Cell[][])
+comment3.params=
+comment3.target=ReactionDiffusion()
+comment4.params=
+comment4.target=void\ save()
+comment5.params=filename
+comment5.target=void\ save(java.lang.String)
+comment6.params=
+comment6.target=void\ next()
+comment7.params=
+comment7.target=void\ nextNoSave()
+comment8.params=value\ min\ max
+comment8.target=int\ constrain(int,\ int,\ int)
+comment9.params=value\ min\ max
+comment9.target=double\ constrain(double,\ double,\ double)
+numComments=12

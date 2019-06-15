@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=FastLife
+comment1.params=world
+comment1.target=FastLife.Counter\ neighborCounts(java.util.Set)
+comment2.params=world
+comment2.target=java.util.Set\ nextGeneration(java.util.Set)
+comment3.params=world\ xMin\ xMax\ yMin\ yMax
+comment3.target=java.lang.String\ printWorld(java.util.Set,\ int,\ int,\ int,\ int)
+comment4.params=world\ xMin\ xMax\ yMin\ yMax
+comment4.target=int[][]\ generatePixels(java.util.Set,\ int,\ int,\ int,\ int)
+comment5.params=world\ xMin\ xMax\ yMin\ yMax\ onValue
+comment5.target=int[][]\ generateArray(java.util.Set,\ int,\ int,\ int,\ int,\ int)
+comment6.params=in\ xOffset\ yOffset
+comment6.target=java.util.Set\ cellFrom2Darray(int[][],\ int,\ int)
+comment7.params=url\ xOffset\ yOffset\ xRange\ yRange\ iterations
+comment7.target=void\ printPattern(java.lang.String,\ int,\ int,\ int[],\ int[],\ int)
+comment8.params=url\ xOffset\ yOffset\ xRange\ yRange\ iterations
+comment8.target=void\ genImageSequence(java.lang.String,\ int,\ int,\ int[],\ int[],\ int)
+numComments=9

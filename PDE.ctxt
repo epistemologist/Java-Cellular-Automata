@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=PDE
+comment0.text=\n\ Class\ that\ implements\ the\ "PDE\ Automata"\n\ Code\ by\:\ Husnain\ Raza\n
+comment1.params=
+comment1.target=PDE()
+comment2.params=initState
+comment2.target=void\ setInitState(int[][])
+comment3.params=
+comment3.target=void\ setInitStateExample()
+comment4.params=x\ y
+comment4.target=int\ getNeighborsAverage(int,\ int)
+comment5.params=
+comment5.target=void\ next()
+comment6.params=in
+comment6.target=int[][]\ convertArrToIm(int[][])
+comment7.params=
+comment7.target=void\ genImageSequence()
+numComments=8

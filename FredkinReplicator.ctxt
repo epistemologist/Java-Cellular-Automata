@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=FredkinReplicator
+comment0.text=\n\ Class\ that\ implements\ Fredkin's\ Replicator\n\ Code\ by\:\ Husnain\ Raza\n
+comment1.params=length\ width\ coords
+comment1.target=FredkinReplicator(int,\ int,\ int[][])
+comment2.params=initState
+comment2.target=FredkinReplicator(int[][])
+comment3.params=iterations
+comment3.target=void\ printHistory(int)
+comment4.params=iterations
+comment4.target=void\ genImageSequence(int)
+comment5.params=iterations\ delay
+comment5.target=void\ printHistoryDelay(int,\ int)
+numComments=6

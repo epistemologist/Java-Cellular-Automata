@@ -1,0 +1,2 @@
+ffmpeg -i %d.png out.avi
+ffplay out.avi

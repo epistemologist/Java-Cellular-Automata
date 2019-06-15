@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.target=Colour
+comment0.text=\n\ Utility\ class\ that\ allows\ for\ implementation\ of\ various\ color\ spectrums\n\ Code\ by\:\ Husnain\ Raza\n
+comment1.params=r\ g\ b
+comment1.target=int\ intFromRGB(int,\ int,\ int)
+comment10.params=n
+comment10.target=int[]\ genGrayscaleMap(int)
+comment11.params=n\ r1\ g1\ b1\ r2\ g2\ b2
+comment11.target=int[]\ genGradientMap(int,\ int,\ int,\ int,\ int,\ int,\ int)
+comment2.params=c
+comment2.target=int\ intFromRGB(int[])
+comment3.params=rgb
+comment3.target=int\ getRed(int)
+comment4.params=rgb
+comment4.target=int\ getGreen(int)
+comment5.params=rgb
+comment5.target=int\ getBlue(int)
+comment6.params=n
+comment6.target=int\ hot(int)
+comment7.params=n\ period
+comment7.target=int\ prism(int,\ int)
+comment8.params=n\ period
+comment8.target=int\ grayscale(int,\ int)
+comment9.params=n
+comment9.target=int[]\ genPrismMap(int)
+numComments=12
