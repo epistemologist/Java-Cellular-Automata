@@ -1,3 +1,7 @@
+/**
+ * Demonstration class for FastLife class
+ * Code by: Husnain Raza
+ */
 public class FastLifeDemo
 {
     public static void rPentomino(int size) throws Exception {

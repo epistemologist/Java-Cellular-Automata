@@ -1,6 +1,6 @@
 #BlueJ class context
 comment0.target=CyclicCellularAutomataDemo
-comment0.text=\n\ Runner\ class\ that\ demonstrates\ Cyclic\ Cellular\ Automata\n
+comment0.text=\n\ Runner\ class\ that\ demonstrates\ Cyclic\ Cellular\ Automata\n\ Code\ by\:\ Husnain\ Raza\n
 comment1.params=args
 comment1.target=void\ cyclicSpirals(java.lang.String[])
 comment2.params=args

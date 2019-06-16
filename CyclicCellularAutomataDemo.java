@@ -1,5 +1,6 @@
 /**
  * Runner class that demonstrates Cyclic Cellular Automata
+ * Code by: Husnain Raza
  */
 public class CyclicCellularAutomataDemo
 {

@@ -1,4 +1,8 @@
 import java.util.Random;
+/**
+ * Runner class for ReactionDiffusion class
+ * Code by: Husnain Raza
+ */
 public class ReactionDiffusionRunner
 {
     public double F;

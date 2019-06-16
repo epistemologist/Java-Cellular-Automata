@@ -1,4 +1,9 @@
 import java.util.*;
+/**
+ * Faster implementation of Conway's Game of Life
+ * Heavily inspired by Peter Norvig's writeup on the Game of Life (basically translated from Python to Java)
+ * Code by: Husnain Raza
+ */
 public class FastLife
 {
     // taken from https://stackoverflow.com/a/32348537

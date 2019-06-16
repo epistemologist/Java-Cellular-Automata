@@ -4,6 +4,7 @@ import java.math.*;
 
 /**
  * Main class that emulates any 2D cellular automata
+ * Code by: Husnain Raza
  */
 public class TwoDimensional
 {

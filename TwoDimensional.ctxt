@@ -1,6 +1,6 @@
 #BlueJ class context
 comment0.target=TwoDimensional
-comment0.text=\n\ Main\ class\ that\ emulates\ any\ 2D\ cellular\ automata\n
+comment0.text=\n\ Main\ class\ that\ emulates\ any\ 2D\ cellular\ automata\n\ Code\ by\:\ Husnain\ Raza\n
 comment1.params=setRules\ setLength\ setWidth
 comment1.target=TwoDimensional(int[],\ int,\ int)
 comment10.params=n

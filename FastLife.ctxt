@@ -1,5 +1,6 @@
 #BlueJ class context
 comment0.target=FastLife
+comment0.text=\n\ Faster\ implementation\ of\ Conway's\ Game\ of\ Life\n\ Heavily\ inspired\ by\ Peter\ Norvig's\ writeup\ on\ the\ Game\ of\ Life\ (basically\ translated\ from\ Python\ to\ Java)\n\ Code\ by\:\ Husnain\ Raza\n
 comment1.params=world
 comment1.target=FastLife.Counter\ neighborCounts(java.util.Set)
 comment2.params=world

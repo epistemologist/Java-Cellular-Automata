@@ -1,5 +1,6 @@
 #BlueJ class context
 comment0.target=ReactionDiffusionRunner
+comment0.text=\n\ Runner\ class\ for\ ReactionDiffusion\ class\n\ Code\ by\:\ Husnain\ Raza\n
 comment1.params=F\ k
 comment1.target=ReactionDiffusionRunner(double,\ double)
 comment2.params=
