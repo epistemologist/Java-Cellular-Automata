@@ -1,6 +1,6 @@
 # Java Cellular Automata
 
-In this repository are Java implementations of various cellular automata. Most of the classes have a method to generate an image sequence, which can then be stitched into a video with something like ffmpeg. Examples of videos produced like this can be found in the "vids" folder.
+In this repository are Java implementations of various cellular automata. Most of the classes have a method to generate an image sequence, which can then be stitched into a video with something like ffmpeg (you can do this automatically by running makevid.sh). Examples of videos produced like this can be found in the "vids" folder.
 ## Utility Classes
 * Array - provides methods to work with 2D arrays
 * Colour - provides methods for implementing various color spectrums
