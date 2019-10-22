@@ -10,7 +10,7 @@ In this repository are Java implementations of various cellular automata. Most o
 * [ElementaryCellularAutomata](https://mathworld.wolfram.com/ElementaryCellularAutomaton.html)
 * TwoDimensional (generalized 2d cellular automata using the Moore neighborhood)
 * [GameOfLife](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life)
-* [FastLife](https://github.com/norvig/pytudes/blob/master/ipynb/Life.ipynb) (faster version of Game of Life with the use of HashSets
+* [FastLife](https://github.com/norvig/pytudes/blob/master/ipynb/Life.ipynb) (faster version of Game of Life with the use of HashSets)
 * [FredkinReplicator](https://www.youtube.com/watch?v=_UtCli1SgjI)
 * PDE (cellular automata that models Laplace's equation)
 * [ReactionDiffusion](https://thecodingtrain.com/CodingChallenges/013-reactiondiffusion-p5.html)
