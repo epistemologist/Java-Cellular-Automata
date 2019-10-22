@@ -7,7 +7,7 @@ In this repository are Java implementations of various cellular automata. Most o
 * Image - provides methods for saving an array as an image
 * ImportLifePattern - imports a Game of Life pattern from the [Game of Life Wiki](http://www.conwaylife.com/wiki/Main_Page)
 ## Implementations
-* [ElementaryCellularAutomata](mathworld.wolfram.com/ElementaryCellularAutomaton.html)
+* [ElementaryCellularAutomata](https://mathworld.wolfram.com/ElementaryCellularAutomaton.html)
 * TwoDimensional (generalized 2d cellular automata using the Moore neighborhood)
 * [GameOfLife](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life)
 * [FastLife](https://github.com/norvig/pytudes/blob/master/ipynb/Life.ipynb) (faster version of Game of Life with the use of HashSets
