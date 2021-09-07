@@ -15,3 +15,7 @@ In this repository are Java implementations of various cellular automata. Most o
 * PDE (cellular automata that models Laplace's equation)
 * [ReactionDiffusion](https://thecodingtrain.com/CodingChallenges/013-reactiondiffusion-p5.html)
 * [CyclicCellularAutomata](https://softologyblog.wordpress.com/2013/08/29/cyclic-cellular-automata/)
+## Example Output
+https://user-images.githubusercontent.com/12467423/132405966-5fe3ee24-75e0-41bf-9b61-f4f289868ed9.mp4
+https://user-images.githubusercontent.com/12467423/132405971-781297b4-e901-4459-8278-160a12a3f61f.mp4
+https://user-images.githubusercontent.com/12467423/132405980-8560515d-54cd-45e4-ba98-6813b36b5944.mp4
